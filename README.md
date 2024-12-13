@@ -6,7 +6,8 @@
 
 - Todas as variáveis de entrada e saída estão sendo inicializadas corretamente
 - O código está padronizado em inglês
-- Remoção da variável do LED azul, que não existye
+- Remoção da variável do LED azul, que não existe
+- Os LEDs são inicializados por padrão apagados
 
 ![image](https://github.com/user-attachments/assets/a440d6f6-9eff-486c-bb30-a2d0c902620f)
 
